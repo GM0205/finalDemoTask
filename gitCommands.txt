@@ -1,0 +1,50 @@
+ls: List directory contents.
+cd: Change the current directory.
+pwd: Print the current working directory.
+mkdir: Create a new directory.
+rm: Remove files or directories.
+cp: Copy files or directories.
+mv: Move or rename files or directories.
+touch: Create an empty file or update file timestamps.
+cat: Concatenate and display file contents.
+more: Display file contents page by page.
+less: Display file contents with paging, but with backward navigation.
+head: Display the beginning of a file.
+tail: Display the end of a file.
+grep: Search for patterns in files.
+find: Search for files and directories.
+chmod: Change file permissions.
+chown: Change file owner and group.
+chgrp: Change group ownership of files.
+tar: Archive files.
+gzip: Compress or decompress files.
+gunzip: Decompress files compressed with gzip.
+zip: Create ZIP archives.
+unzip: Extract files from ZIP archives.
+df: Display disk space usage.
+du: Display disk usage of files and directories.
+free: Display system memory usage.
+ps: Display information about running processes.
+top: Display real-time information about system resources and processes.
+kill: Terminate processes by PID or name.
+shutdown: Shutdown or reboot the system.
+reboot: Reboot the system.
+ifconfig: Display or configure network interfaces.
+ping: Test network connectivity.
+ssh: Connect to a remote system via SSH.
+scp: Securely copy files between hosts.
+wget: Download files from the internet.
+curl: Transfer data from or to a server.
+apt-get (or apt): Package manager for Debian-based systems.
+yum (or dnf): Package manager for Red Hat-based systems.
+rpm: Package manager for managing RPM packages.
+history: Display command history.
+man: Display manual pages for commands.
+date: Display or set the system date and time.
+cal: Display a calendar.
+echo: Print arguments to the standard output.
+uname: Print system information.
+hostname: Print or set system hostname.
+passwd: Change user password.
+su: Switch user or become superuser.
+sudo: Execute a command as another user, typically the superuser.
